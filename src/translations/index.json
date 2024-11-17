@@ -1,0 +1,32 @@
+{
+  "en": {
+    "goBack": "Go back",
+    "searchResultsFor": "Search Results for",
+    "search": "Search",
+    "noResults": "No results"
+  },
+  "de": {
+    "goBack": "Zurück",
+    "searchResultsFor": "Suchergebnisse für",
+    "search": "Suche",
+    "noResults": "Keine Ergebnisse"
+  },
+  "uk": {
+    "goBack": "Повернутися",
+    "searchResultsFor": "Результати пошуку для",
+    "search": "Пошук",
+    "noResults": "Немає результатів"
+  },
+  "ru": {
+    "goBack": "Вернуться",
+    "searchResultsFor": "Результаты поиска для",
+    "search": "Поиск",
+    "noResults": "Нет результатов"
+  },
+  "pl": {
+    "goBack": "Wróć",
+    "searchResultsFor": "Wyniki wyszukiwania dla",
+    "search": "Szukaj",
+    "noResults": "Brak wyników"
+  }
+}
